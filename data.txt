@@ -1,0 +1,10 @@
+computer      user     result
+r              r          d
+r              p          u
+r              s          c
+p              r          c
+p              p          d
+p              s          u
+s              r          u
+s              p          c
+s              s          d
